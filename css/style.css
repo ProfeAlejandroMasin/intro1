@@ -1,0 +1,12 @@
+h1 {
+    color: rgba(226, 62, 62, 0.5);
+}
+
+ol {
+    color: green;
+}
+
+img{
+    border: 5px dotted red;
+    width: 250px;
+}
